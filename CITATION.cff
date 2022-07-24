@@ -1,0 +1,50 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Rational Noncrossing Catalan Combinatorics
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Nathan
+    family-names: Williams
+    email: nathan.williams1@utdallas.edu
+    affiliation: University of Texas at Dallas
+    orcid: 'https://orcid.org/0000-0003-2084-6428'
+  - given-names: Pavel
+    family-names: Galashin
+    email: galashin@math.ucla.edu
+    affiliation: 'University of California, Los Angeles'
+  - given-names: Thomas
+    family-names: Lam
+    email: tfylam@umich.edu
+    affiliation: University of Michigan
+  - given-names: Minh-Tâm
+    family-names: Trinh
+    email: mqt@mit.edu
+    affiliation: Massachusetts Institute of Technology
+url: >-
+  https://github.com/nathanfwilliams/Rational-Noncrossing-Catalan-Combinatorics
+abstract: >-
+  We solve two open problems in Coxeter--Catalan
+  combinatorics. First, we introduce a family of
+  rational noncrossing objects for any finite Coxeter
+  group, using the combinatorics of distinguished
+  subwords. Second, we give a type-uniform proof for
+  Weyl groups that these noncrossing Catalan objects
+  are counted by the rational Coxeter--Catalan
+  number, using the character theory of the
+  associated Hecke algebra and the properties of
+  Lusztig's exotic Fourier transform.  We solve the
+  same problems for rational noncrossing parking
+  objects.
+keywords:
+  - Coxeter-Catalan combinatorics
+  - rational Catalan number
+  - q-Catalan number
+  - noncrossing partitions
+  - parking functions
+  - Hecke algebra
+  - Coxeter group
+  - rational Cherednik algebra
+date-released: '2022-07-24'
